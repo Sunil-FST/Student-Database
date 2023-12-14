@@ -1,8 +1,7 @@
-package Practice.Student_DBMS;
 import java.util.Scanner;
 import java.util.HashMap;
 
-public class Student_Database_Management {
+public class STD_DBMS {
 
    public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
